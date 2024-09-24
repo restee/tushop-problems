@@ -268,8 +268,9 @@ const start = async () => {
     sortedJobs,
     path2.max.jobs
   );
-  console.log("\nRemaining Tasks: ", unusedJobs.length);
-  console.log("Remaining Earnings: ", unusedJobsProfit);
+  console.log("\nThe number of tasks and earnings available for others");
+  console.log("Tasks: ", unusedJobs.length);
+  console.log("Earnings: ", unusedJobsProfit);
 
   //   console.log("Max jobs", path2?.max);
 
