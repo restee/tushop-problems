@@ -1,0 +1,17 @@
+Number of employees: 7
+Goodies and Prices:
+Bose QuietComfort 35 II: 29999
+Nintendo Switch: 29999
+GoPro HERO9: 39999
+Dyson V11: 49999
+Apple AirPods Pro: 24999
+Samsung T7 Touch 1TB: 12999
+Anker PowerCore 20100: 4999
+Kindle Paperwhite: 12999
+Ring Video Doorbell 3: 19999
+Tile Pro: 3999
+Philips Hue Starter Kit: 19999
+Nest Learning Thermostat: 24999
+Instant Pot Duo: 9999
+Nespresso VertuoPlus: 14999
+Sonos One: 19999

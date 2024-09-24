@@ -1,0 +1,17 @@
+Number of employees: 6
+Goodies and Prices:
+Samsung Galaxy S21: 69999
+Dell XPS 13: 99999
+Sony WH-1000XM4: 29999
+Apple Watch Series 6: 39999
+iPad Pro: 79999
+JBL Flip 5: 9999
+PlayStation 5: 49999
+Canon EOS R5: 299999
+HP LaserJet Pro: 19999
+LG UltraFine 4K: 49999
+Logitech MX Keys: 9999
+Razer DeathAdder V2: 5999
+Netgear Nighthawk X6: 15999
+Seagate Backup Plus 5TB: 10999
+Logitech C920 HD Pro: 7999
